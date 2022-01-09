@@ -3,3 +3,5 @@ WebSpeech API integrated in Android application. There's apks for russian and en
 
 I took HTML and JS code from https://codepen.io/harryheman/pen/VwppNgp
 Author - Igor Agapov
+
+![alt text](https://github.com/Mike-Kuznetsov/AndroidWebSpeech/blob/main/AndroidWebSpeech.png?raw=true)
